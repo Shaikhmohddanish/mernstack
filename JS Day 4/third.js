@@ -3,10 +3,17 @@
 //     console.log("Even");
 // }else{
 //     console.log("Odd");
-    
 // }
 
-// let age = -10;
+// let x = 10;
+// if(x%2!=0){
+//     console.log("ODD");
+// }else{
+//     console.log("Even");
+// }
+
+// let age = prompt("Enter your age:");
+
 // if(age > 0 && age <=10){
 //     console.log("User is Kid");
 // }else if(age > 10 && age <= 18){
@@ -16,6 +23,12 @@
 // }else{
 //     console.log("Invalid Age");
 // }
+
+// if(true){
+//     console.log("TRUE HAI");
+    
+// }
+
 
 // let age = prompt("Enter your age");
 // if(age > 0 && age <=10){
@@ -56,14 +69,25 @@
 // }
 
 
-// Ternary Operator
 
-// let age = 10;
+let age = 9;
 // if(age > 18){
 //     console.log("Adult");
 // }else{
 //     console.log("Not an Adult");
 // }
-// age > 18 ? console.log("Adult") : console.log("Not an Adult");
+
+// Ternary Operator
+age > 18 ? console.log("Adult") : console.log("Not an Adult");
+
+// condition ? agar true rahi to ye execute hoga : nh to ye hoga;
 
 
+
+
+/*
+
+1 - leap year wo hai jo 4 se divide ho jata hai 
+2 - 
+
+*/
